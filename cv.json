@@ -1,0 +1,186 @@
+{
+    "basics": {
+      "name": "Zahir Zamudio Zea",
+      "label": "Estudiante de la carrera de Ingeniería de Sistemas de la Universidad Católica de Santa María (UCSM)",
+      "image": "/perfilCV.webp",
+      "email": "zahirzmaudioz@gmail.com",
+      "phone": "+51 969374640",
+      "url": "https://midu.dev",
+      "summary": "Actualmente soy estudiante del IX semestre de la carrera de Ingeniería de Sistemas de la Universidad Católica de Santa María, Arequipa. El desarrollo de software y las nuevas tecnologías informáticas son mis motivaciones para estudiar esta carrera. Desde que inicié mis estudios de pregrado he llevado cursos que me han permitido tener interés particularmente en las áreas de: desarrollo Web, desarrollo de base datos, desarrollo de aplicaciones móviles e inteligencia artificial. Parte de mi formación profesional es realizar prácticas pre-profesionales en Instituciones (públicas o privadas) donde pueda aplicar mis conocimientos y contribuir a los objetivos de la Institución. Esta experiencia pre-profesional me permitirá reforzar y adquirir nuevas habilidades en las áreas de mi interés.",
+      "location": {
+        "address": "",
+        "postalCode": "08820",
+        "city": "Arequipa",
+        "countryCode": "ES",
+        "region": "Perú"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "midudev",
+          "url": "https://linkedin.com/in/midudev"
+        },
+        {
+          "network": "X",
+          "username": "midudev",
+          "url": "https://x.com/midudev"
+        },
+        {
+          "network": "GitHub",
+          "username": "midudev",
+          "url": "https://github.com/midudev"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Universidad Católica de Santa María (UCSM)",
+        "position": "Estudiante de Pregrado de la Facultad de Ingenierias Físicas y Formales. Carrera profesional de Ingeniería de Sistemas",
+        "url": "https://www.ucsm.edu.pe/",
+        "startDate": "2020-03-01",
+        "endDate": null,
+        "summary": "He cursado los siguientes cursos especificos de la carrera de Ingeniería de sistema: cursos de programación, gestión de proyectos, base de datos, y desarrollo de software.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Software",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "C++",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Raspberry Pi 4",
+        "isActive": true,
+        "description": "Circuito electrónico para configurar luces LED meadiante una Raspberry Pi 4 utilizando Python",
+        "highlights": [
+          "Microelectrónica",
+          "Circuitos"
+        ],
+        "url": "https://www.raspberrypi.com/"
+      }
+    ],
+    "experience": [
+      {
+        "summary": "Los cursos que han tenido impacto en mi formación son en las áreas de: 1) desarrollo Web usando Javascript, HTML y CSS para la construcción de páginas web; 2) desarrollo y manejo de bases de datos con MySQL; 3) desarrollo de aplicaciones móviles usando la herramienta de Android Studio, siguiendo los estándares de calidad para el desarrollo de software; y 4) entrenamiento de modelos de aprendizaje automático (machine learning) usando el lenguaje Python para crear modelos predictivos."
+      }
+    ]
+  }

@@ -1,0 +1,17 @@
+---
+import Section from "../Section.astro";
+
+import { experience } from "@cv"
+---
+
+<Section title="Experiencia">
+    <ul>
+        {
+            experience.map(({ summary }) => (
+                <li>
+                    <p>{summary}</p>
+                </li>
+            ))
+        }
+    </ul>
+</Section>
