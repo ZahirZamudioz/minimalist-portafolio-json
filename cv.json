@@ -170,7 +170,7 @@
       {
         "name": "Raspberry Pi 4",
         "isActive": true,
-        "description": "Circuito electrónico para configurar luces LED meadiante una Raspberry Pi 4 utilizando Python",
+        "description": "Inicié un pequeño proyecto usando Raspberry Pi 4. El Raspberri Pi es un ordenador de placa simple, al cual se conectó un Protoboard y con el lenguaje Python se configuró un circuito electrónico de luces LED.",
         "highlights": [
           "Microelectrónica",
           "Circuitos"
@@ -181,6 +181,11 @@
     "experience": [
       {
         "summary": "Los cursos que han tenido impacto en mi formación son en las áreas de: 1) desarrollo Web usando Javascript, HTML y CSS para la construcción de páginas web; 2) desarrollo y manejo de bases de datos con MySQL; 3) desarrollo de aplicaciones móviles usando la herramienta de Android Studio, siguiendo los estándares de calidad para el desarrollo de software; y 4) entrenamiento de modelos de aprendizaje automático (machine learning) usando el lenguaje Python para crear modelos predictivos."
+      }
+    ],
+    "activities": [
+      {
+        "summary": "En mis tiempos libres me gusta editar videos y escuchar música, y hacer viajes para conocer nuevas culturas/lugares."
       }
     ]
   }

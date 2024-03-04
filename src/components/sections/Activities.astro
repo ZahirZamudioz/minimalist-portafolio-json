@@ -1,8 +1,17 @@
 ---
 import Section from "../Section.astro";
 
+import { activities } from "@cv"
 ---
 
-<Section title="Otras Actividades">
-
+<Section title="Actividades Personales">
+    <ul>
+        {
+            activities.map(({ summary }) => (
+                <li>
+                    <p>{summary}</p>
+                </li>
+            ))
+        }
+    </ul>
 </Section>
